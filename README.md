@@ -12,7 +12,7 @@ I've built over 40 public repos, but privately.. it's probably more than 45 at t
 
 You can explore some of my work in the pinned repositories below.
 
-If you'd like to learn more about my [journey](www.linkedin.com/in/satyakumarram), you can find it here!
+If you'd like to learn more about my [journey](https://www.linkedin.com/in/satyakumarram/), you can find it here!
 
 
 Fun Facts:
