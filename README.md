@@ -6,9 +6,9 @@ I build web applications with a focus on clean code and reliable structure.
 
 I enjoy working on ideas and turning them into useful digital products.
 
-My main tech stack is MERN with a growing focus on GenAI. My favorite tools are Figma, Postman, and Docker.
+My work spans full stack development, with a growing focus on AI-driven systems and interactive, user-focused web experiences.
 
-I've built over 40 public repos, but privately.. it's probably more than 45 at this point.
+I've built over 45 public repos, but privately.. it's probably more than 50 at this point.
 
 You can explore some of my work in the pinned repositories below.
 
